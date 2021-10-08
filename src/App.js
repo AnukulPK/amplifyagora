@@ -1,6 +1,7 @@
-import React from "react";
-import "./App.css";
+import React from 'react';
+import './App.css';
 
+//Class Based Component
 class App extends React.Component {
   state = {};
 
